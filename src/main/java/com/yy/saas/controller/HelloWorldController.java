@@ -9,7 +9,7 @@ public class HelloWorldController {
     @RequestMapping("/say")
     public String say()
     {
-        System.out.println("1111");
+        System.out.println("22222");
         return "hello 王晓陆!你知道正确吗";
     }
 }
